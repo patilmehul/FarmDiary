@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "95060620783",
+    "project_id": "farm-diary-3f419",
+    "storage_bucket": "farm-diary-3f419.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95060620783:android:19918e9ab633e4736f321a",
+        "android_client_info": {
+          "package_name": "com.rogers.farmdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95060620783-uhs91fhqikeh13t5it1quomksum2sn6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rogers.farmdiary",
+            "certificate_hash": "502b6553103fca90a349baa089b027d6bc7941f5"
+          }
+        },
+        {
+          "client_id": "95060620783-eiu1vc7qaf4mhtqe62an83gdtb2p2hkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADivmyly1EIq24_QMWM-pp2TJJ0c_nhO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95060620783-eiu1vc7qaf4mhtqe62an83gdtb2p2hkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
