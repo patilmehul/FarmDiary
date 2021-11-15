@@ -6,3 +6,6 @@ The user can save the detailed description of the activities along with the date
 
 ## Glimpses of the application
 
+![](https://github.com/patilmehul/FarmDiary/blob/main/Application%20Screenshots/Screenshot%20from%202021-11-15%2021-42-50.png)
+![](https://github.com/patilmehul/FarmDiary/blob/main/Application%20Screenshots/Screenshot%20from%202021-11-15%2021-43-10.png)
+![](https://github.com/patilmehul/FarmDiary/blob/main/Application%20Screenshots/Screenshot%20from%202021-11-15%2021-43-32.png)
